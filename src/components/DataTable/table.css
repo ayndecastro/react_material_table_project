@@ -1,0 +1,7 @@
+.css-override  thead span {
+    color: #fff !important;
+}
+
+.css-override thead svg {
+    color: #fff !important;
+}
